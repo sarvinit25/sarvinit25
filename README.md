@@ -24,6 +24,7 @@ I build things end to end: train a model, put an API around it, and ship a dashb
 |---|---|---|
 | [**Sentinel AI**](https://github.com/sarvinit25/violence-detection-system-using-ML) | Real-time violence detection for CCTV clips. 96.5% test accuracy, 0.8% false positives, about 42 ms per clip on GPU. Live alerts over WebSocket and email. | PyTorch, FastAPI, React |
 | [**TaxSaver**](https://github.com/sarvinit25/tax_advisor) | Offline Indian income-tax app. Compares old and new regimes, explains the working, reads Form 16 on the device. | React Native, Expo, TypeScript |
+| [**Resume–Job Match Scorer**](https://github.com/sarvinit25/resume-job-match-scorer) | Scores a resume against a job description (skill coverage + TF-IDF similarity + structure) and lists missing skills. 15 tests, Docker, CI. | FastAPI, scikit-learn |
 | **GCS CRM** *(private)* | Back-office CRM for a loan-advisory firm: leads to commissions, role-based access, 2FA, captcha-protected intake. | NestJS, PostgreSQL, Prisma, React |
 
 ## 📫 Reach me
